@@ -1,4 +1,3 @@
-import { logarTempoDeExecucao } from '../helpers/decorators/index'
 export abstract class View<T> {
 
     protected _elemento: JQuery;
